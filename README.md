@@ -45,10 +45,10 @@ This workspace is designed for implementing and experimenting with Retrieval-Aug
 
 See the `requirements.txt` file for a list of required libraries.
 
-## Video Walkthrough
+## Demo
 
-- **File**: `history-aware-RAG.webm`
-- [Watch the demo video](history-aware-RAG.webm)
+- [history-aware-RAG.webm](https://github.com/user-attachments/assets/1f74bd70-8467-42a7-b1e8-0cb989d44ed5)
+
 - **Description**: This video demonstrates the history-aware generation process, showcasing how the system retrieves relevant information and generates context-aware responses.
 
 
