@@ -48,6 +48,7 @@ See the `requirements.txt` file for a list of required libraries.
 ## Video Walkthrough
 
 - **File**: `history-aware-RAG.webm`
+- [Watch the demo video](history-aware-RAG.webm)
 - **Description**: This video demonstrates the history-aware generation process, showcasing how the system retrieves relevant information and generates context-aware responses.
 
 
